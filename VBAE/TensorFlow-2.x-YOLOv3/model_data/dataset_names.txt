@@ -1,0 +1,9 @@
+Mobile_phone
+Bottle
+Handbag
+Watch
+Scissors
+Stapler
+Pen
+back_pack
+Alarm_clock
